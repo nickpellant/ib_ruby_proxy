@@ -12,6 +12,7 @@ classes:
   - TickAttribLast
   - HistoricalTickBidAsk
   - ContractDetails
+  - ScannerSubscription
 
 mapped_callbacks:
   req_historical_ticks:
